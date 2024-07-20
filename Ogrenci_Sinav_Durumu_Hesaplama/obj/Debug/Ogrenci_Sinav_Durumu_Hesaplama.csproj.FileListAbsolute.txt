@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\Ogrenci_Sinav_Durumu_Hesaplama.exe.config
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\Ogrenci_Sinav_Durumu_Hesaplama.exe
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\bin\Debug\Ogrenci_Sinav_Durumu_Hesaplama.pdb
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.Form1.resources
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.Properties.Resources.resources
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.exe
+D:\SQL\C# Projeler\Ogrenci_Sinav_Durumu_Hesaplama\Ogrenci_Sinav_Durumu_Hesaplama\obj\Debug\Ogrenci_Sinav_Durumu_Hesaplama.pdb
